@@ -14,3 +14,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm **Thesalmar**, also known IRL as Côme Lemargue. I'm a french IT Support Admin at Aircall
+
+💻
+---
+I experienced some stacks : C and Python
+I was coding a lot when I was at [EPITECH](https://www.epitech.eu/en) but it didn't went as expected and I quit this school 2 years after my entry.
+
+Now, I am more focus on working with other subjects such as Systems & Networks, although my work is done on UI Friendly cloud apps.
+
+My favorite distro on Linux is [Debian](https://www.debian.org) and you can find my [dotfiles repository](https://github.com/Thesalmar/t_dotfiles) here.
+I don't go on github often because I don't code that much now compared to 2-3 years ago. However, if I can learn to create a Pizza ordering script with Ruby, that would be great :)
+
+☁️
+---
+My favorite tools are :
+- [Raindrop](https://www.raindrop.io) : Pretty useful to store your favorite links and having nested/categorized collections.
+- [G Suite](https://www.gsuite.google.com) : A friendly/Gmail-like interface when you have domain names. 
+- [Wallmine](https://www.wallmine.com) : A very good tool when you manage a stock portfolio (Doesn't works yet on other products like bonds nor the Tokyo Stock Exchange)
+
+This is only a tiny part of my tools. Don't hesitate to contact me for more !
+
+💬
+---
+You can contact me on :
+- **[Twitter](https://twitter.com/MrThesalmar)**
+- **Discord** : Thesalmar#0001
