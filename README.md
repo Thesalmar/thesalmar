@@ -30,7 +30,7 @@ I don't go on github often because I don't code that much now compared to 2-3 ye
 ---
 My favorite tools are :
 - [Raindrop](https://www.raindrop.io) : Pretty useful to store your favorite links and having nested/categorized collections.
-- [G Suite](https://www.gsuite.google.com) : A friendly/Gmail-like interface when you have domain names. 
+- [Google Workspace](https://workspace.google.com/intl/en/) : A friendly/Gmail-like interface when you have domain names. 
 - [Wallmine](https://www.wallmine.com) : A very good tool when you manage a stock portfolio (Doesn't works yet on other products like bonds nor the Tokyo Stock Exchange)
 
 This is only a tiny part of my tools. Don't hesitate to contact me for more !
