@@ -14,17 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm **Thesalmar**, also known IRL as Côme Lemargue. I'm a french Enterprise IT Support Technician at Datadog
+I'm **Thesalmar**, also known IRL as Côme Lemargue. I'm a IT Support Technician at X
 
 💻
 ---
 I experienced some stacks in the past : C and Python
-I was coding a lot when I was at [EPITECH](https://www.epitech.eu/en) but it didn't went as expected and I quit this school 2 years after my entry.
+I was coding a lot when I was at [EPITECH](https://www.epitech.eu/en) but it didn't went as expected and I quit this school 2 years after entering it.
 
 Now, I am more focus on working with other subjects such as Systems & Networks, although my work is done on UI Friendly cloud apps.
 
 My favorite distro on Linux is [Debian](https://www.debian.org) and you can find my [dotfiles repository](https://github.com/Thesalmar/t_dotfiles) here.
-I don't go on github often because I don't code that much now compared to a few years ago. However, if I can learn to create a Pizza ordering script with Ruby, that would be great :)
+I don't go on github often because I don't code that much now compared to a few years ago. However, if I can learn to create a SaaS app with different stacks, that would be great :)
 
 ☁️
 ---
@@ -38,6 +38,5 @@ This is only a tiny part of my tools. Don't hesitate to contact me for more !
 💬
 ---
 You can contact me on :
-- **[Twitter](https://twitter.com/MrThesalmar)**
+- **[Twitter](https://twitter.com/dottokomuuu)**
 - **Discord** : Thesalmar
-- **Email** : come@datadoghq.com
